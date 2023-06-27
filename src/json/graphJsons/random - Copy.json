@@ -1,0 +1,129 @@
+{
+  "locations": [
+    {
+      "coordinates": {
+        "xPosition": 2.0,
+        "yPosition": -1.0,
+        "zPosition": 0.0
+      },
+      "name": "Shumen",
+      "id": "679e6550-6a51-4d27-aeb9-4e1a25d34132",
+      "connections": [
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        },
+        {
+          "1c4c419f-0f97-47b9-92f6-412ba24655c4": "679e6550-6a51-4d27-aeb9-4e1a25d34132"
+        },
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "1c4c419f-0f97-47b9-92f6-412ba24655c4"
+        },
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        }
+      ],
+      "radius": 10.0,
+      "densityPercent": 2.0
+    },
+    {
+      "coordinates": {
+        "xPosition": -1.0,
+        "yPosition": 2.0,
+        "zPosition": 0.0
+      },
+      "name": "Varna",
+      "id": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7",
+      "connections": [
+        {
+          "1c4c419f-0f97-47b9-92f6-412ba24655c4": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        },
+        {
+          "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7": "1c4c419f-0f97-47b9-92f6-412ba24655c4"
+        },
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        },
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        }
+      ],
+      "radius": 13.0,
+      "densityPercent": 1.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 0.0,
+        "yPosition": 0.0,
+        "zPosition": 0.0
+      },
+      "name": "Provadia",
+      "id": "1c4c419f-0f97-47b9-92f6-412ba24655c4",
+      "connections": [
+        {
+          "1c4c419f-0f97-47b9-92f6-412ba24655c4": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7"
+        },
+        {
+          "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7": "1c4c419f-0f97-47b9-92f6-412ba24655c4"
+        },
+        {
+          "1c4c419f-0f97-47b9-92f6-412ba24655c4": "679e6550-6a51-4d27-aeb9-4e1a25d34132"
+        },
+        {
+          "679e6550-6a51-4d27-aeb9-4e1a25d34132": "1c4c419f-0f97-47b9-92f6-412ba24655c4"
+        }
+      ],
+      "radius": 2.0,
+      "densityPercent": 5.0
+    }
+  ],
+  "connections": [
+    {
+      "startLocationId": "1c4c419f-0f97-47b9-92f6-412ba24655c4",
+      "finishLocationId": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7",
+      "finishLocationId": "1c4c419f-0f97-47b9-92f6-412ba24655c4",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "679e6550-6a51-4d27-aeb9-4e1a25d34132",
+      "finishLocationId": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "1c4c419f-0f97-47b9-92f6-412ba24655c4",
+      "finishLocationId": "679e6550-6a51-4d27-aeb9-4e1a25d34132",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "679e6550-6a51-4d27-aeb9-4e1a25d34132",
+      "finishLocationId": "1c4c419f-0f97-47b9-92f6-412ba24655c4",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "679e6550-6a51-4d27-aeb9-4e1a25d34132",
+      "finishLocationId": "02afdbcd-f7e3-4f60-a139-49d7f4fcf4b7",
+      "distance": 55.5,
+      "anglePercent": 1.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    }
+  ]
+}
