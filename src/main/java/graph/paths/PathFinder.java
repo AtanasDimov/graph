@@ -24,9 +24,6 @@ public class PathFinder {
         this.graph = graph;
     }
     public List<UUID> findCrossLocation(UUID startLocation, UUID finishLocation){
-        Comparator<Connection> trafficComparator = new TrafficComparator();
-        Comparator<Connection> distanceComparator = new DistanceComparator();
-
         PriorityQueue<UUID> firstQueue = new PriorityQueue<>();
         PriorityQueue<UUID> secondQueue = new PriorityQueue<>();
         Set<UUID> firstVisited = new HashSet<>();
