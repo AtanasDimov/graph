@@ -2,8 +2,6 @@ package graph.paths;
 
 import graph.Graph;
 import graph.connection.Connection;
-import graph.connection.comparators.DistanceComparator;
-import graph.connection.comparators.TrafficComparator;
 import graph.distances.LocationDistance;
 import graph.location.Location;
 
