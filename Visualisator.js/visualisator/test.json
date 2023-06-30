@@ -1,0 +1,472 @@
+{
+  "locations": [
+    {
+      "coordinates": {
+        "xPosition": -5.0,
+        "yPosition": 5.0,
+        "zPosition": 1.0
+      },
+      "name": "Razgrad",
+      "id": "e84d440a-e3e6-4f2b-b573-91cd72d3f444",
+      "connections": [
+        {
+          "728f2dad-45c4-4ce2-bf19-6f525bcd7a79": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        },
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        },
+        {
+          "e84d440a-e3e6-4f2b-b573-91cd72d3f444": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": -3.0,
+        "yPosition": 1.7,
+        "zPosition": 1.0
+      },
+      "name": "Shumen",
+      "id": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "connections": [
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "258b6403-0895-48a9-8b46-b09373be3b45"
+        },
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "258b6403-0895-48a9-8b46-b09373be3b45"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6"
+        },
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "258b6403-0895-48a9-8b46-b09373be3b45"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 3.0,
+        "yPosition": 1.5,
+        "zPosition": 1.0
+      },
+      "name": "Provadia",
+      "id": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8",
+      "connections": [
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "b467ac8e-4d97-411c-b360-ba1373b6951a": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 2.0,
+        "yPosition": -1.0,
+        "zPosition": 1.0
+      },
+      "name": "Dalgopol",
+      "id": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "connections": [
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "258b6403-0895-48a9-8b46-b09373be3b45"
+        },
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 0.0,
+        "yPosition": -3.3,
+        "zPosition": 1.0
+      },
+      "name": "Komunari",
+      "id": "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4",
+      "connections": [
+        {
+          "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": -2.0,
+        "yPosition": -5.9,
+        "zPosition": 1.0
+      },
+      "name": "Aitos",
+      "id": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "connections": [
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        },
+        {
+          "b467ac8e-4d97-411c-b360-ba1373b6951a": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "728f2dad-45c4-4ce2-bf19-6f525bcd7a79": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        },
+        {
+          "b467ac8e-4d97-411c-b360-ba1373b6951a": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "e84d440a-e3e6-4f2b-b573-91cd72d3f444": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 9.3,
+        "yPosition": 1.6,
+        "zPosition": 1.0
+      },
+      "name": "Varna",
+      "id": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "connections": [
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "258b6403-0895-48a9-8b46-b09373be3b45"
+        },
+        {
+          "b467ac8e-4d97-411c-b360-ba1373b6951a": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6"
+        },
+        {
+          "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4": "16f4f37c-12d8-473f-9a34-e21b6827d621"
+        },
+        {
+          "16f4f37c-12d8-473f-9a34-e21b6827d621": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 12.0,
+        "yPosition": -1.0,
+        "zPosition": 1.0
+      },
+      "name": "Obzor",
+      "id": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c",
+      "connections": [
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        },
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c"
+        },
+        {
+          "089feb3f-3332-4d6e-97d6-efe90b2b1f4c": "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 10.0,
+        "yPosition": -4.2,
+        "zPosition": 1.0
+      },
+      "name": "Nesebar",
+      "id": "0db71d50-7b75-4178-9204-08b8b1d0d32f",
+      "connections": [
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "258b6403-0895-48a9-8b46-b09373be3b45"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    },
+    {
+      "coordinates": {
+        "xPosition": 12.0,
+        "yPosition": -7.3,
+        "zPosition": 1.0
+      },
+      "name": "Burgas",
+      "id": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "connections": [
+        {
+          "728f2dad-45c4-4ce2-bf19-6f525bcd7a79": "e84d440a-e3e6-4f2b-b573-91cd72d3f444"
+        },
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "258b6403-0895-48a9-8b46-b09373be3b45": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        },
+        {
+          "728f2dad-45c4-4ce2-bf19-6f525bcd7a79": "b467ac8e-4d97-411c-b360-ba1373b6951a"
+        },
+        {
+          "0db71d50-7b75-4178-9204-08b8b1d0d32f": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79"
+        }
+      ],
+      "radius": 0.0,
+      "densityPercent": 0.0
+    }
+  ],
+  "connections": [
+    {
+      "startLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "finishLocationId": "e84d440a-e3e6-4f2b-b573-91cd72d3f444",
+      "distance": 20.983088428541688,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "0db71d50-7b75-4178-9204-08b8b1d0d32f",
+      "finishLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "distance": 3.689173349139343,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "finishLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "distance": 11.81905241548577,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "finishLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "distance": 7.74919350642375,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "finishLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "distance": 12.300406497347964,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c",
+      "finishLocationId": "e84d440a-e3e6-4f2b-b573-91cd72d3f444",
+      "distance": 18.027756377319946,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "finishLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "distance": 5.682429058070149,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "finishLocationId": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8",
+      "distance": 2.692582403567252,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c",
+      "finishLocationId": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "distance": 14.832734070291963,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "finishLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "distance": 13.562448156582942,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "finishLocationId": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8",
+      "distance": 6.300793600809347,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "finishLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "distance": 17.4928556845359,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "finishLocationId": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "distance": 14.069825869569247,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "finishLocationId": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c",
+      "distance": 15.241062955056645,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "0db71d50-7b75-4178-9204-08b8b1d0d32f",
+      "finishLocationId": "728f2dad-45c4-4ce2-bf19-6f525bcd7a79",
+      "distance": 3.689173349139343,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "finishLocationId": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8",
+      "distance": 8.930845424706442,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "finishLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "distance": 7.74919350642375,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4",
+      "finishLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "distance": 10.51189802081432,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "finishLocationId": "498c15a0-bcf4-4870-94e0-64a0c2c84eb8",
+      "distance": 6.003332407921453,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "finishLocationId": "9bab6cf8-4c80-45a0-98c1-ef16e0192ea6",
+      "distance": 5.682429058070149,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "089feb3f-3332-4d6e-97d6-efe90b2b1f4c",
+      "finishLocationId": "cbe1f8c9-fc8c-414b-9054-8b3e2ca7abc4",
+      "distance": 12.218428704215611,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "16f4f37c-12d8-473f-9a34-e21b6827d621",
+      "finishLocationId": "e84d440a-e3e6-4f2b-b573-91cd72d3f444",
+      "distance": 14.698639392814561,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "0db71d50-7b75-4178-9204-08b8b1d0d32f",
+      "finishLocationId": "258b6403-0895-48a9-8b46-b09373be3b45",
+      "distance": 14.276203977248294,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    },
+    {
+      "startLocationId": "e84d440a-e3e6-4f2b-b573-91cd72d3f444",
+      "finishLocationId": "b467ac8e-4d97-411c-b360-ba1373b6951a",
+      "distance": 11.30530848760882,
+      "anglePercent": 0.0,
+      "ruleList": [],
+      "densityPercent": 0.0
+    }
+  ]
+}

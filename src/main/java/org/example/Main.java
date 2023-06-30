@@ -37,8 +37,8 @@ public class Main {
         graphMap.setAngleSlope();
         PathFinder finder = new PathFinder(graphMap);
 
-        UUID pointA = graphMap.getLocations().get(1).getId();
-        UUID pointB = graphMap.getLocations().get(9).getId();
+        UUID pointA = graphMap.getLocations().get(5).getId();
+        UUID pointB = graphMap.getLocations().get(3).getId();
         List<UUID> crossPath = finder.findCrossLocation(pointA,pointB);
         String firstLocation = graphMap.getLocationById(pointA).getName();
         String secondLocation = graphMap.getLocationById(pointB).getName();
